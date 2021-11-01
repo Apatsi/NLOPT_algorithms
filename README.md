@@ -21,3 +21,4 @@ As we can see in the diagram, the method is quite slow and fluctuates until it f
 
 ![image](https://user-images.githubusercontent.com/62386580/139707763-2612763a-04e3-4477-aa25-c9f72ac23702.png)
 
+
