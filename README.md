@@ -9,7 +9,7 @@ Examples:
 
 Reviewing this function, we conclude that it is in normal form.
 
-With initial guess=[0.5; 0.5] and step alpha=0.15 calculated with 138 repetitions, f has a local minimum at x*=[1; 1].
+With initial guess=[0.5; 0.5] and step alpha=0.15, calculated with 138 repetitions, f has a local minimum at x*=[1; 1].
 
 
 ![image](https://user-images.githubusercontent.com/62386580/139707306-9943930a-cc48-4a24-a444-efd1921f7877.png)
