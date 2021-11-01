@@ -16,7 +16,7 @@ With initial guess=[0.5; 0.5] and step alpha=0.15, calculated with 138 repetitio
 ![image](https://user-images.githubusercontent.com/62386580/139707327-1b04c29c-1944-4399-b810-80201b1b47db.png)
 
 
-As we can see in the diagram, the method is quite slow and fluctuates until it finally reaches the minimizer [1,1]
+As we can see in the diagram, the method is quite slow and fluctuates until it finally reaches the minimizer [1,1].
 
 
 ![image](https://user-images.githubusercontent.com/62386580/139707763-2612763a-04e3-4477-aa25-c9f72ac23702.png)
