@@ -4,7 +4,7 @@ Implementation of the steepest descent algorithm in MATLAB from scratch.
 Goal is to find the local minimum (if it exists) using non-linear algorithms such as Steepest Descent. 
 
 
-Examples:
+Example:
 
 ![image](https://user-images.githubusercontent.com/62386580/139705642-eeba29b2-67cc-4c84-aab8-2bd431ce78b9.png)
 
